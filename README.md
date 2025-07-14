@@ -12,6 +12,7 @@ Using time series modeling with LSTM networks, this notebook performs:
 - Evaluation using MAE and MSE
 - Forecast generation for 2025–2026
 - Visualization of trends and salary distribution by region
+- Comparison of model outputs with real-world statistics
 
 ## Repository Structure
 
